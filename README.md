@@ -1,4 +1,4 @@
 # StaticPages-HW
 
-Статичные странички: colours, foradmin, contentrepeat
+Статичные странички: colours, foradmin, contentrepeat.
 И все завернуто в Bootstrap
